@@ -13,4 +13,6 @@ class Student{
 
 const Student1 = new Student(12, "Mithu");
 const Student2 = new Student(16, "Ali Akkas");
-console.log(Student1, Student2);
+const Student3 = new Student(33, "Kolimuddin Khan");
+// console.log(Student1.id, Student2.name);
+console.log(Student3);
